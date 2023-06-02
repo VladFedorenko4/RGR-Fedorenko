@@ -1,0 +1,78 @@
+.div1{
+    background-color: #fff;
+    
+  
+    border: 5px solid #333;
+    
+}
+.zagolovok{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+}
+.text_in_block{
+    font-family: 'Times New Roman', Times, serif;
+    float: right;
+    color: rgb(0, 0, 0);
+}
+
+
+
+
+    /*contacts*/
+    .contact{
+        border: 3px solid #333;
+        
+
+    }
+    .map{
+      
+        height: 600px;
+    width: 100%;
+    text-align: center;
+    }
+      /*news*/
+      .hh{
+        color: #333;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        text-decoration: inherit;
+        text-shadow: 2px 4px 3px rgba(0, 0, 0, 0.3);
+        text-transform: capitalize;
+        margin-left: 10px;
+      }
+      .text {
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color: rgb(0, 0, 0);
+    }
+    .img-novin{
+        border: 2px solid #333;
+    }
+    .round-button {
+        display: inline-block;
+        padding: 10px 20px;
+        border-radius: 50%;
+        background-color: gray;
+        color: white;
+        text-decoration: none;
+        transition: background-color 0.3s ease;
+      }
+      
+      .round-button:hover {
+        background-color: green;
+      }
+      .custom-div {
+        background-color: white;
+        border: 5px solid #333;
+        padding: 10px;
+        margin-bottom: 10px;
+      }
+      .gallery-item {
+        padding: 5px;
+      }
+      .im{
+        height: 300px;
+        width: 400px;
+      }
+      .hidden {
+        display: none;
+      }
